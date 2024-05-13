@@ -53,6 +53,8 @@ namespace Maturita
                 Console.WriteLine("Attribute on MyClass: " + attr.GetType().Name);
             // operatory
 
+            // tady je to ez, ukazte vsechno co umite
+            // = - * / % < > == 
 
 
             
