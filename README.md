@@ -1,3 +1,6 @@
+# Anotace od Chat GPT, já třeba nechápu proč vůbec jsou
+
+
 Annotations in C#, like the ones you've used in your code (such as [Required], [Obsolete], and [Conditional]), serve various purposes in programming. Let's break down each of them:
 
 [Required] Attribute:
